@@ -3,4 +3,12 @@ API_HASH_KEY = 3e8fb163088dbc3ee517dd15d47cfd8e
 STRING_SESSION = "1BVtsOKYBu2gxw9ijHe4DGgO50CNl-JDP4I2WmXgATXpWDbQvMLpv_O49IrybFl4vztiyGlgQqmCi-f0NiGO5nGtMX44NXDIzI7OuifBSLcqpk4Phob56lrcsMjvkbs9xK7DhScWLvNfarOoAhhAvXcIQs00pcoeVoPdQXQcjtm5Qfm2g3ztWYY1QM3dMV1gX_dowxYvvUNfTtL6oNRehrSzj5XtLTkrpBNoST3KAaijUuqWNaqh1pjg-bIxs9mOhkSRGnkqMcIWhQcA1TPBeJmCwTPQOgwXJNKxXYNwxvYewQ4Sp-hTIGqR4pjzW6FVWGvRVkL49GwTMR_iXW6jmr1L-fWweyys="
 HEROKU_API_KEY = e9c34e6a-a9df-4508-81ce-67fa79f4d4db
 HEROKU_APP_NAME = scoopy01
-ENFORCERS = 
+ENFORCERS = 1392872370
+SIBYL = 1392872370
+INSPECTORS = 1392872370
+MONGO_DB_URL= mongodb+srv://dbuserooo:<password>@cluster0.zxpzr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+Sibyl_logs = -532509245
+Sibyl_approved_logs = -402172252
+
+
+
