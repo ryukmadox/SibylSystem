@@ -9,7 +9,7 @@ INSPECTORS = 1392872370
 MONGO_DB_URL= mongodb+srv://dbuserooo:<password>@cluster0.zxpzr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 Sibyl_logs = -532509245
 Sibyl_approved_logs = -402172252
-GBAN_MSG_LOGS = -473732933a
+GBAN_MSG_LOGS = -473732933
 BOT_TOKEN = 1731574633:AAFdN7wPOsUrwH6TmuCV9gmdRs2x3w7cIZo
 
 
